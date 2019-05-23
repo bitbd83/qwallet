@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.status-im.status-keycard-java:lib:2.2.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.status-im.status-keycard-java/lib/2.2.1/e6753d0eccdf7dfebb0d3c8a1898dcc453ac735e/lib-2.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.status-im.status-keycard-java/lib/2.2.1/cfe9658b5e2791009baaab3d77afe7169d44a064/lib-2.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ligi.tracedroid:supportemail:2.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a24291704c292808b2977eefb1717e85/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a24291704c292808b2977eefb1717e85/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ligi.tracedroid/supportemail/2.1/b322d7ab0841cfdc478dec3269000b10ec66bfe9/supportemail-2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

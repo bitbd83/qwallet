@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ligi:KAXTUI:0.8@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/44de3ce27f3b545d910531c5f6c4c7b1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/44de3ce27f3b545d910531c5f6c4c7b1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ligi/KAXTUI/0.8/b5890eaf9c3b43654a87289b9807f1e26f02471d/KAXTUI-0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

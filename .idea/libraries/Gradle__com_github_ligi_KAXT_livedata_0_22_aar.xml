@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ligi.KAXT:livedata:0.22@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f5032935f88de506ad61fdb1d2f98933/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f5032935f88de506ad61fdb1d2f98933/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ligi.KAXT/livedata/0.22/39f2759998054c5a1a184e76cb6f72a2bd07a8b/livedata-0.22-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

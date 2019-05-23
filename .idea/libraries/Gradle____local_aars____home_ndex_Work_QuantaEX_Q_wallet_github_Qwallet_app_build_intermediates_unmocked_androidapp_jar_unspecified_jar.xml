@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:/home/ndex/Work/QuantaEX/Q-wallet/github/Qwallet/app/build/intermediates/unmocked-androidapp.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/unmocked-androidapp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

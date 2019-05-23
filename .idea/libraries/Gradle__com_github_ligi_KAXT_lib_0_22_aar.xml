@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ligi.KAXT:lib:0.22@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8ef5c96582e08263de0793a286a64051/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8ef5c96582e08263de0793a286a64051/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ligi.KAXT/lib/0.22/66e6f1a6110bc17e70aa0c747e01ca150f63b3f6/lib-0.22-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

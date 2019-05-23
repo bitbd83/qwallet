@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ligi:thirdpartylicensedisplay:0.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e87f18bd1f72ff488e8bd3ae76092f02/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e87f18bd1f72ff488e8bd3ae76092f02/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ligi/thirdpartylicensedisplay/0.4/9ee7f953057e0d2d402db802c0bc4997a293d911/thirdpartylicensedisplay-0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

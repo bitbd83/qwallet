@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.walleth.kethereum:etherscan:0.75.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.walleth.kethereum/etherscan/0.75.0/b5409d49a9bfef85028a982c20dc0e9bf8b2f7aa/etherscan-0.75.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.walleth.kethereum/etherscan/0.75.0/cf3f2439fcd7bef1224aed06eec841f6c80e117e/etherscan-0.75.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

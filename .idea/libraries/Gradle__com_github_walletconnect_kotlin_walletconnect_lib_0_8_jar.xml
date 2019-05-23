@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.walletconnect:kotlin-walletconnect-lib:0.8@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.walletconnect/kotlin-walletconnect-lib/0.8/8d1bde666c678e92c801469fcb7e6a46d2357170/kotlin-walletconnect-lib-0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.walletconnect/kotlin-walletconnect-lib/0.8/58a908594b2f6e33343e54b466013cda3143f611/kotlin-walletconnect-lib-0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

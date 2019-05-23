@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.walleth.kethereum:crypto_impl_bouncycastle:0.75.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.walleth.kethereum/crypto_impl_bouncycastle/0.75.0/43306fc14748a0c0a16ea1af3149ece5de229b34/crypto_impl_bouncycastle-0.75.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.walleth.kethereum/crypto_impl_bouncycastle/0.75.0/452fbd33f7942a4305742c78ffd8213d10133caf/crypto_impl_bouncycastle-0.75.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

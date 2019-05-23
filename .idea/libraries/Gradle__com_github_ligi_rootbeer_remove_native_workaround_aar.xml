@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ligi:rootbeer:remove_native_workaround@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8792a5619d19ebc6d459c1ef646f7c5b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8792a5619d19ebc6d459c1ef646f7c5b/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ligi/rootbeer/remove_native_workaround/af53df97a5e5ec7e1e52ab473845d66a784b4aa/rootbeer-remove_native_workaround-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

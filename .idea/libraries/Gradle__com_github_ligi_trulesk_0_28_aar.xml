@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ligi:trulesk:0.28@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2ae1629c03bafeab2993d3f5c487048e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2ae1629c03bafeab2993d3f5c487048e/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ligi/trulesk/0.28/74042156deab8c98bb57106ac2577e60aa42999f/trulesk-0.28-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

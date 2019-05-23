@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.walleth:KHardWareWallet:0.8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/12f77f996fb7a51cd2254d18a5ac5069/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/12f77f996fb7a51cd2254d18a5ac5069/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.walleth/KHardWareWallet/0.8/ae8d0090445acf68b777a5182cde446fed6407/KHardWareWallet-0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
