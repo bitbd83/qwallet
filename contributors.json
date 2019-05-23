@@ -1,0 +1,37 @@
+[
+  {
+    "nick": "BitBD",
+    "eth": "0xB2b4076a36b8993094cBfdb72512820B8BeDb6Ce",
+    "role": [
+      "code",
+      "org",
+      "concept",
+      "root"
+    ],
+    "url": "https://github.com/bitbd83"
+  },
+  {
+    "name": "JK",
+    "eth": "0x4Ef1BD4A9712735E34AdAD807C985628C2853A3B",
+    "role": [
+      "art"
+    ],
+    "url": "https://github.com/imjaireddy"
+  },
+  {
+    "nick": "Supal",
+    "eth": "0x",
+    "role": [
+      "social"
+    ],
+    "url": "https://t.me/s145p"
+  },
+   {
+    "nick": "Imran",
+    "eth": "0xE114AB93414DEFa76c2682De1622D50E54beD5c2",
+    "role": [
+      "marketing"
+    ],
+   "url": "https://t.me/YeasinHassan"
+  }
+]

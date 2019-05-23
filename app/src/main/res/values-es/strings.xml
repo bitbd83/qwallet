@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Q-Wallet</string>
+    <string name="welcome">Bienvenido,\n\n no había cuenta para ti aún - entonces te hemos creado una. </string>
+    <string name="request_transaction_subtitle">Solicitar Transacción</string>
+    <string name="edit_account_subtitle">Editar cuenta</string>
+    <string name="switch_account_subtitle">Cambiar cuenta</string>
+    <string name="address_book_subtitle">Libreta de direcciones</string>
+    <string name="transaction_subtitle">Detalles de la transacción</string>
+
+    <string name="request_subtitle">Solicitar</string>
+    <string name="drawer_open">abrir</string>
+    <string name="drawer_close">cerrar</string>
+    <string name="qr_code">Código QR</string>
+    <string name="text_extract_funds">Usted puede usar este Código QR para solicitar una transacción:</string>
+
+    <string name="import_json_subtitle">Importar llave</string>
+    <string name="export_account_subtitle">Exportar llave</string>
+
+    <array name="day_night">
+        <item>Day</item>
+        <item>Night</item>
+        <item>Auto</item>
+    </array>
+
+    <array name="scan_hex_choices">
+        <item>Add to AddressBook</item>
+        <item>Perform transaction</item>
+        <item>Add token definition</item>
+    </array>
+
+
+    <string name="day_or_night">Día o Noche</string>
+    <string name="day_or_night_summary">Hay un tema claro y uno oscuro</string>
+    <string name="dialog_title_success">Exitoso</string>
+    <string name="dialog_title_error">Error</string>
+
+    <string name="select_fiat_reference">Seleccionar (Fiat) de Referencia</string>
+    <string name="select_token">Seleccionar Token</string>
+    <string name="create_account_subtitle">Crear cuenta</string>
+    <string name="open_in_blockexplorer">Abrir en EtherScan</string>
+    <string name="transaction_to_label">Para:</string>
+    <string name="transaction_from_label">De:</string>
+    <string name="alert_problem_title">Problema</string>
+    <string name="address_not_valid">La dirección no es válida</string>
+    <string name="input_hint_address">Dirección</string>
+    <string name="input_hint_notes">notas</string>
+    <string name="input_hint_account_name">nombre de la cuenta</string>
+    <string name="please_enter_name">Por favor digite un nombre</string>
+    <string name="share">Compartir</string>
+    <string name="print">Imprimir</string>
+    <string name="paper_wallet_title">Q-Wallet Billetera Ethereum de Papel</string>
+    <string name="paper_wallet_text">Esta es la llave privada para tu cuenta de Ethereum - almacenela de forma segura y recuerde la contraseña correspondiente</string>
+    <string name="imported_key_alert_message">Importa %s</string>
+    <string name="imported_key_default_entry_name">Importa</string>
+    <string name="imported_key_entry_note">Importa en %s</string>
+    <string name="key_input_key_hint">La llave</string>
+    <string name="key_import_password_input_hint">Contraseña</string>
+    <string name="key_import_account_name_input_hint">Nombre de la cuenta</string>
+    <string name="scan_not_interpreted_error_message">No sé pudó interpretar su intensión para escanear. Actualmente sólo se soporta: ERC67, Direcciones, ECDSA-Key, JSON(UTC-) Llaves</string>
+    <string name="select_action_messagebox_title">Seleccionar Acción</string>
+    <string name="saf_activity_not_found_problem">No App found to handle ACTION_OPEN_DOCUMENT - please report this as a problem to your phone-/ROM-provider</string>
+    <string name="transaction_to_use_hint">Transacción a usar</string>
+    <string name="no_funds_after_fee">Sin fondos con la comisión dada</string>
+    <string name="nav_drawer_edit_account">Editar cuenta</string>
+    <string name="nav_drawer_export_key">Exportar llave</string>
+    <string name="nav_drawer_import_key">Importar llave</string>
+    <string name="nav_drawer_preferences">Ajustes</string>
+    <string name="default_day_night">auto</string>
+    <string name="default_stats_username">Usuario Q-Wallet</string>
+    <string name="network_subtitle">Redes</string>
+</resources>

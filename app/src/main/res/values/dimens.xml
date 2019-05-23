@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">14dp</dimen>
+    <dimen name="activity_vertical_margin">14dp</dimen>
+    <dimen name="qrcode_size">256dp</dimen>
+    <dimen name="rythm">10dp</dimen>
+    <dimen name="rythm2">16dp</dimen>
+
+    <dimen name="transaction_eth_text">8sp</dimen>
+    <dimen name="transaction_fiat_text">8sp</dimen>
+    <dimen name="switch_padding">8dp</dimen>
+
+</resources>

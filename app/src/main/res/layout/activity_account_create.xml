@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="org.walleth.activities.CreateAccountActivity">
+
+    <ScrollView android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            <TextView
+                    android:text="Type:"
+                    android:id="@+id/type_label_label"
+                    style="@style/section_header"/>
+
+            <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                <androidx.appcompat.widget.AppCompatImageView
+                        android:layout_width="48dp"
+                        android:layout_height="48dp"
+                        android:padding="8dp"
+                        android:layout_gravity="center_vertical"
+                        app:tint="@color/fgColor"
+                        android:id="@+id/type_image"
+                        tools:src="@drawable/ic_whatshot_black_24dp"/>
+                <TextView
+                        tools:text="Burner"
+                        android:textAppearance="?android:textAppearanceLarge"
+                        android:layout_gravity="center_vertical"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+                <com.google.android.material.button.MaterialButton
+                        android:id="@+id/type_select_button"
+                        android:layout_margin="8dp"
+                        tools:text="select"
+                        style="@style/MaterialButtonStyle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+            </LinearLayout>
+
+
+            <TextView
+                    android:text="Metadata:"
+                    style="@style/section_header"/>
+
+            <com.google.android.material.textfield.TextInputLayout
+                    android:padding="8dp"
+                    android:id="@+id/name_input_container"
+                    android:hint="@string/input_hint_account_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                <androidx.appcompat.widget.AppCompatEditText
+                        android:id="@+id/nameInput"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                    android:padding="8dp"
+                    android:id="@+id/input_address_layout"
+                    android:hint="@string/input_hint_account_address"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                <androidx.appcompat.widget.AppCompatEditText
+                        android:id="@+id/input_address"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+            <com.google.android.material.textfield.TextInputLayout
+                    android:padding="8dp"
+                    android:id="@+id/note_input_container"
+                    android:hint="@string/input_hint_notes"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                <androidx.appcompat.widget.AppCompatEditText
+                        android:id="@+id/noteInput"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <TextView
+                    android:text="Settings:"
+                    android:id="@+id/function_label"
+                    style="@style/section_header"/>
+
+
+            <CheckBox
+                    android:layout_margin="8dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/notify_checkbox"
+                    android:text="Notify on changes"/>
+
+        </LinearLayout>
+    </ScrollView>
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fab"
+            android:layout_margin="16dp"
+            app:srcCompat="@drawable/ic_action_done"
+            android:layout_gravity="bottom|right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+</FrameLayout>

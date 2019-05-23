@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        app:cardMaxElevation="8dp">
+
+
+    <RelativeLayout
+            android:padding="8dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.AppCompatImageView
+                style="@style/button"
+                tools:src="@drawable/ic_star_border_24dp"
+                android:id="@+id/token_starred"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        <androidx.appcompat.widget.AppCompatImageView
+                style="@style/button"
+                tools:src="@drawable/ic_redeem_black_24dp"
+                android:layout_below="@id/token_starred"
+                android:id="@+id/faucet"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        <TextView
+                android:paddingLeft="8dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/token_name"
+                android:layout_toRightOf="@id/token_starred"
+
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                android:fontFamily="sans-serif"
+                tools:text="Etheraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"/>
+
+        <TextView
+                android:paddingLeft="8dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/token_chain"
+                android:layout_toRightOf="@id/token_starred"
+                android:layout_below="@id/token_name"
+                android:fontFamily="sans-serif"
+                android:layout_alignParentRight="true"
+                tools:text="18"/>
+
+
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

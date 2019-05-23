@@ -1,0 +1,362 @@
+[
+    {
+        "project": "Android AppCompat Library v7",
+        "description": "The Support Library is a static library that you can add to your Android application in order to use APIs that are either not available for older platform versions or utility APIs that aren't a part of the framework APIs. Compatible on devices running API 14 or later.",
+        "version": "28.0.0",
+        "developers": [
+            "The Android Open Source Project"
+        ],
+        "url": "http://developer.android.com/tools/extras/support-library.html",
+        "year": "2011",
+        "licenses": [
+            {
+                "license": "The Apache Software License",
+                "license_url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+            }
+        ]
+    },
+   
+    {
+        "project": "Bouncy Castle Provider",
+        "description": "The Bouncy Castle Crypto package is a Java implementation of cryptographic algorithms. This jar contains JCE provider and lightweight API for the Bouncy Castle Cryptography APIs for JDK 1.5 to JDK 1.8.",
+        "version": "1.60",
+        "developers": [
+            "The Legion of the Bouncy Castle Inc."
+        ],
+        "url": "http://www.bouncycastle.org/java.html",
+        "year": null,
+        "licenses": [
+            {
+                "license": "Bouncy Castle Licence",
+                "license_url": "http://www.bouncycastle.org/licence.html"
+            }
+        ]
+    },
+    {
+        "project": "Com.github.madrapps:pikolo",
+        "description": "An android color picker library",
+        "version": "1.1.8",
+        "developers": [
+            "Madrapps"
+        ],
+        "url": "https://github.com/Madrapps/Pikolo",
+        "year": null,
+        "licenses": [
+            {
+                "license": "The Apache Software License, Version 2.0",
+                "license_url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+            }
+        ]
+    },
+   
+    {
+        "project": "Kotpref",
+        "description": null,
+        "version": "2.6.0",
+        "developers": [
+            "Takao Chiba"
+        ],
+        "url": "https://github.com/chibatching/kotpref",
+        "year": null,
+        "licenses": [
+            {
+                "license": "The Apache Software License, Version 2.0",
+                "license_url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+            }
+        ]
+    },
+    {
+        "project": "Ligi/KAXTUI",
+        "description": null,
+        "version": "0.8",
+        "developers": [
+            "ligi"
+        ],
+        "url": "https://github.com/ligi/KAXTUI",
+        "year": "2017",
+        "licenses": [
+            {
+                "license": "MIT License",
+                "license_url": "https://api.github.com/licenses/mit"
+            }
+        ]
+    },
+    {
+        "project": "Ligi/ThirdPartyLicenseDisplay",
+        "description": "Displays third party license information",
+        "version": "0.4",
+        "developers": [
+            "ligi"
+        ],
+        "url": "https://github.com/ligi/ThirdPartyLicenseDisplay",
+        "year": "2018",
+        "licenses": [
+            {
+                "license": "MIT License",
+                "license_url": "https://api.github.com/licenses/mit"
+            }
+        ]
+    },
+   
+   
+    {
+        "project": "No op LeakCanary for Android",
+        "description": "Leak Canary",
+        "version": "1.6.3",
+        "developers": [
+            "Square, Inc."
+        ],
+        "url": "http://github.com/square/leakcanary/",
+        "year": null,
+        "licenses": [
+            {
+                "license": "The Apache Software License, Version 2.0",
+                "license_url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+            }
+        ]
+    },
+         
+    {
+        "project": "Process Phoenix",
+        "description": "A special activity which facilitates restarting your application process.",
+        "version": "2.0.0",
+        "developers": [
+            "Jake Wharton"
+        ],
+        "url": "https://github.com/JakeWharton/ProcessPhoenix/",
+        "year": null,
+        "licenses": [
+            {
+                "license": "The Apache Software License, Version 2.0",
+                "license_url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+            }
+        ]
+    },
+    
+    
+    {
+        "project": "QRGen-android",
+        "description": null,
+        "version": "2.5.0",
+        "developers": [
+            
+        ],
+        "url": null,
+        "year": null,
+        "licenses": [
+            {
+                "license": "Apache License v2",
+                "license_url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+            }
+        ]
+    },
+    {
+        "project": "QRGen-core",
+        "description": "a simple QRCode generation api for java built on top ZXING",
+        "version": "2.5.0",
+        "developers": [
+            "Ken Gullaksen"
+        ],
+        "url": "http://kenglxn.github.io/QRGen/",
+        "year": null,
+        "licenses": [
+            {
+                "license": "Apache License v2",
+                "license_url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+            }
+        ]
+    },
+    {
+        "project": "Rootbeer",
+        "description": "A tasty root checker library and sample app. We've scoured the internets for different methods of answering that age old question... Has this device got root?",
+        "version": "remove_native_workaround",
+        "developers": [
+            "Scott Alexander-Bown"
+        ],
+        "url": "https://github.com/scottyab/rootbeer.git",
+        "year": "2018",
+        "licenses": [
+            {
+                "license": "The Apache Software License, Version 2.0",
+                "license_url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+            }
+        ]
+    },
+    {
+        "project": "SLF4J API Module",
+        "description": "The slf4j API",
+        "version": null,
+        "developers": [
+            
+        ],
+        "url": "http://www.slf4j.org",
+        "year": null,
+        "licenses": [
+            {
+                "license": "MIT License",
+                "license_url": "http://www.opensource.org/licenses/mit-license.php"
+            }
+        ]
+    },
+    {
+        "project": "SLF4J LOG4J-12 Binding",
+        "description": "SLF4J LOG4J-12 Binding",
+        "version": null,
+        "developers": [
+            
+        ],
+        "url": "http://www.slf4j.org",
+        "year": null,
+        "licenses": [
+            {
+                "license": "MIT License",
+                "license_url": "http://www.opensource.org/licenses/mit-license.php"
+            }
+        ]
+    },
+    {
+        "project": "ShowcaseView library",
+        "description": "Highlight the best bits of your app to users quickly, simply, and cool...ly",
+        "version": "5.4.3",
+        "developers": [
+            "Alex Curran"
+        ],
+        "url": "https://github.com/amlcurran/ShowcaseView",
+        "year": null,
+        "licenses": [
+            {
+                "license": "The Apache Software License, Version 2.0",
+                "license_url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+            }
+        ]
+    },
+    {
+        "project": "ThreeTen backport",
+        "description": "Backport of JSR-310 from JDK 8 to JDK 7 and JDK 6. NOT an implementation of the JSR.",
+        "version": "1.3.7",
+        "developers": [
+            "Stephen Colebourne"
+        ],
+        "url": "https://www.threeten.org/threetenbp",
+        "year": "2007",
+        "licenses": [
+            {
+                "license": "BSD 3-clause",
+                "license_url": "https://raw.githubusercontent.com/ThreeTen/threetenbp/master/LICENSE.txt"
+            }
+        ]
+    },
+    {
+        "project": "ThreeTenAbp",
+        "description": "An adaptation of the JSR-310 backport for Android.",
+        "version": "1.1.1",
+        "developers": [
+            "Jake Wharton"
+        ],
+        "url": "https://github.com/JakeWharton/ThreeTenABP/",
+        "year": null,
+        "licenses": [
+            {
+                "license": "The Apache Software License, Version 2.0",
+                "license_url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+            }
+        ]
+    },
+    {
+        "project": "Timber",
+        "description": "No-nonsense injectable logging.",
+        "version": "4.5.1",
+        "developers": [
+            "Jake Wharton"
+        ],
+        "url": "https://github.com/JakeWharton/timber",
+        "year": null,
+        "licenses": [
+            {
+                "license": "The Apache Software License, Version 2.0",
+                "license_url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+            }
+        ]
+    },
+    {
+        "project": "Topsnackbar",
+        "description": "A Snackbar showing on top (Android).",
+        "version": "1.1.1",
+        "developers": [
+            "Andrei Dan"
+        ],
+        "url": "https://github.com/AndreiD/TSnackBar",
+        "year": null,
+        "licenses": [
+            {
+                "license": "The Apache Software License, Version 2.0",
+                "license_url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+            }
+        ]
+    },
+    {
+        "project": "VersionedParcelable and friends",
+        "description": "Provides a stable but relatively compact binary serialization format that can be passed across processes or persisted safely.",
+        "version": "28.0.0",
+        "developers": [
+            "The Android Open Source Project"
+        ],
+        "url": "http://developer.android.com/tools/extras/support-library.html",
+        "year": "2018",
+        "licenses": [
+            {
+                "license": "The Apache Software License",
+                "license_url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+            }
+        ]
+    },
+    {
+        "project": "WalletConnect/kotlin-walletconnect-lib",
+        "description": "library to use WalletConnect with Kotlin or Java",
+        "version": "0.2",
+        "developers": [
+            "WalletConnect"
+        ],
+        "url": "https://github.com/WalletConnect/kotlin-walletconnect-lib",
+        "year": "2018",
+        "licenses": [
+            {
+                "license": "MIT License",
+                "license_url": "https://api.github.com/licenses/mit"
+            }
+        ]
+    },
+    {
+        "project": "Walleth/khex",
+        "description": "Kotlin library to handle hexadecimal value representations",
+        "version": "0.6",
+        "developers": [
+            "WALL\u039eTH"
+        ],
+        "url": "https://github.com/walleth/khex",
+        "year": "2017",
+        "licenses": [
+            {
+                "license": "MIT License",
+                "license_url": "https://api.github.com/licenses/mit"
+            }
+        ]
+    },
+    {
+        "project": "ZXing Core",
+        "description": "Core barcode encoding/decoding library",
+        "version": "3.3.3",
+        "developers": [
+            
+        ],
+        "url": null,
+        "year": null,
+        "licenses": [
+            {
+                "license": "The Apache Software License, Version 2.0",
+                "license_url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+            }
+        ]
+    }
+]
+

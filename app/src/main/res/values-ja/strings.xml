@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Q-Wallet</string>
+    <string name="welcome">ようこそ、\n\n まだアカウントがないようです - 1 つ作成しました。 注意 - </string>
+    <string name="request_transaction_subtitle">トランザクションのリクエスト</string>
+    <string name="edit_account_subtitle">アカウントを編集</string>
+    <string name="switch_account_subtitle">アカウントの切り替え</string>
+    <string name="address_book_subtitle">アドレス帳</string>
+    <string name="transaction_subtitle">トランザクションの詳細</string>
+
+    <string name="scan_instructions">QR コードをフレームの中心にしてください。</string>
+    <string name="no_camera_permission">Q-Wallet はカメラにアクセスするアクセス許可がありません。</string>
+
+    <string name="request_subtitle">リクエスト</string>
+    <string name="drawer_open">開く</string>
+    <string name="drawer_close">閉じる</string>
+    <string name="qr_code">QR-コード</string>
+    <string name="text_extract_funds">この QR-コードを使用して、トランザクションをリクエストすることができます:</string>
+
+    <string name="import_json_subtitle">キーをインポート</string>
+    <string name="export_account_subtitle">キーをエクスポート</string>
+
+    <array name="day_night">
+        <item>日中</item>
+        <item>夜間</item>
+        <item>自動</item>
+    </array>
+
+    <array name="scan_hex_choices">
+        <item>アドレス帳に追加</item>
+        <item>トランザクションを実行</item>
+        <item>トークンの定義を追加</item>
+    </array>
+
+
+    <string name="day_or_night">日中または夜間</string>
+    <string name="day_or_night_summary">ライトおよびダークテーマがあります</string>
+    <string name="dialog_title_success">成功</string>
+    <string name="dialog_title_error">エラー</string>
+
+    <string name="select_fiat_reference">(フィアット) 参照を選択</string>
+    <string name="select_token">トークンを選択</string>
+    <string name="create_account_subtitle">アカウントを作成</string>
+    <string name="open_in_blockexplorer">EtherScan で開く</string>
+    <string name="transaction_to_label">宛先:</string>
+    <string name="transaction_from_label">送信元:</string>
+    <string name="alert_problem_title">問題</string>
+    <string name="address_not_valid">アドレスが正しくありません</string>
+    <string name="input_hint_address">アドレス</string>
+    <string name="input_hint_notes">メモ</string>
+    <string name="input_hint_account_name">アカウント名</string>
+    <string name="please_enter_name">名前を入力してください</string>
+    <string name="share">共有</string>
+    <string name="print">印刷</string>
+    <string name="paper_wallet_title">Q-Wallet ペーパー Ethereum ウォレット</string>
+    <string name="paper_wallet_text">これはあなたの Ethereum アカウントのプライベートキー（秘密鍵）です - 安全に保管し、対応するパスワードを合わせて忘れないようにしてください。</string>
+    <string name="imported_key_alert_message">%s をインポートしました</string>
+    <string name="imported_key_default_entry_name">インポートしました</string>
+    <string name="imported_key_entry_note">%s にインポートしました</string>
+    <string name="key_input_key_hint">キー</string>
+    <string name="key_import_password_input_hint">パスワード</string>
+    <string name="key_import_account_name_input_hint">アカウント名</string>
+    <string name="scan_not_interpreted_error_message">スキャンのインテントを処理できません。 現在は以下のみサポートしています: ERC67, アドレス, ECDSA-キー, JSON(UTC-) キー</string>
+    <string name="select_action_messagebox_title">操作を選択</string>
+    <string name="saf_activity_not_found_problem">ACTION_OPEN_DOCUMENT を処理するアプリが見つかりません - 電話-/ROM-メーカーに問題を報告してください</string>
+    <string name="transaction_to_use_hint">使用するトランザクション</string>
+    <string name="no_funds_after_fee">指定した手数料の資金が残っていません</string>
+    <string name="nav_drawer_edit_account">アカウントを編集</string>
+    <string name="nav_drawer_export_key">キーをエクスポート</string>
+    <string name="nav_drawer_import_key">キーをインポート</string>
+    <string name="nav_drawer_preferences">設定</string>
+</resources>

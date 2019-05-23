@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        android:layout_gravity="center_vertical"
+        android:padding="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <ProgressBar
+            style="@style/Base.Widget.AppCompat.ProgressBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:indeterminate="true"
+            android:visibility="visible"/>
+
+    <TextView android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              tools:text="Waiting for interaction with application"
+              android:textAlignment="center"
+              android:textAppearance="?android:attr/textAppearanceLarge"
+              android:id="@+id/status_text"/>
+
+    <Button android:layout_width="wrap_content"
+            android:id="@+id/wc_change_account"
+            android:visibility="gone"
+            android:layout_gravity="center_horizontal"
+            android:layout_height="wrap_content"
+            style="@style/MaterialButtonStyle"
+            android:text="Change Account"/>
+
+
+    <Button android:layout_width="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:visibility="gone"
+            android:layout_height="wrap_content"
+            android:id="@+id/wc_change_network"
+            style="@style/MaterialButtonStyle"
+            android:text="Change Network"/>
+
+</LinearLayout>
