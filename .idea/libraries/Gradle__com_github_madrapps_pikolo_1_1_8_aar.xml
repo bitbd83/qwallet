@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.madrapps:pikolo:1.1.8@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9af51cbc7005f41afb126975c2775866/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9af51cbc7005f41afb126975c2775866/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b4f5726df213b61ac994d7c684879bcf/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b4f5726df213b61ac994d7c684879bcf/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

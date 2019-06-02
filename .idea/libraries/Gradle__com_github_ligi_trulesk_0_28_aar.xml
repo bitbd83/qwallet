@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.ligi:trulesk:0.28@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2ae1629c03bafeab2993d3f5c487048e/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2ae1629c03bafeab2993d3f5c487048e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7423843f43ad026a5cf51eaa0ef4cf49/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7423843f43ad026a5cf51eaa0ef4cf49/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

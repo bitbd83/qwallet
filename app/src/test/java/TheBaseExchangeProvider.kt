@@ -1,8 +1,8 @@
 import com.google.common.truth.Truth.assertThat
 import org.junit.Test
-import org.walleth.data.ETH_IN_WEI
-import org.walleth.data.exchangerate.BaseExchangeProvider
-import org.walleth.functions.toFiatValueString
+import org.qwallet.data.ETH_IN_WEI
+import org.qwallet.data.exchangerate.BaseExchangeProvider
+import org.qwallet.functions.toFiatValueString
 import java.math.BigDecimal
 import java.math.BigInteger
 

@@ -7,177 +7,296 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4b230e5-8030-4ed3-ad3c-e77647693ed6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____home_ndex_Work_QuantaEX_Q_wallet_github_Qwallet_app_build_intermediates_unmocked_androidapp_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_0_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_extensions_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_process_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_service_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_multidex_multidex_2_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_multidex_multidex_instrumentation_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_paging_paging_common_2_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_paging_paging_runtime_2_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_preference_preference_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_room_room_common_2_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_room_room_runtime_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_sqlite_sqlite_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_sqlite_sqlite_framework_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_contrib_3_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_intents_3_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_rules_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_work_work_runtime_2_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_work_work_runtime_ktx_2_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_androidadvance_topsnackbar_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_chibatching_kotpref_kotpref_2_8_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_dmitrymalkovich_android_progress_fab_1_6_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_amlcurran_showcaseview_library_5_4_3_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_kenglxn_QRGen_android_2_5_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_kenglxn_QRGen_core_2_5_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_ExtraCompats_0_5_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_KAXTUI_0_8_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_KAXT_0_22_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_KAXT_lib_0_22_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_KAXT_livedata_0_22_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_KRoom_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_rootbeer_remove_native_workaround_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_thirdpartylicensedisplay_0_4_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_tracedroid_lib_2_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_tracedroid_supportemail_2_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_trezor_android_only_library_for_ethereum_tag_core210_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_trulesk_0_28_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_madrapps_pikolo_1_1_8_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_status_im_status_keycard_java_android_2_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_status_im_status_keycard_java_lib_2_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walletconnect_kotlin_walletconnect_lib_0_8_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_KHardWareWallet_0_8_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_bip32_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_bip39_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_bip39_wordlist_en_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_bip44_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_blockscout_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_contract_abi_types_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_crypto_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_crypto_impl_bouncycastle_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_eip155_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_eip191_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_erc1328_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_erc55_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_erc681_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_erc831_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_etherscan_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_extensions_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_functions_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_keccak_shortcut_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_keystore_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_method_signatures_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_model_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_networks_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_rlp_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_rpc_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_kethereum_wallet_0_75_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_khex_0_6_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_apps_common_testing_accessibility_framework_accessibility_test_framework_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_auto_value_auto_value_annotations_1_6_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_3_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_25_1_android_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_listenablefuture_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_protobuf_protobuf_java_3_7_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_truth_truth_0_42_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_zxing_core_3_3_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_googlecode_java_diff_utils_diffutils_1_3_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_process_phoenix_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_threetenabp_threetenabp_1_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_linkedin_dexmaker_dexmaker_mockito_2_25_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_haha_haha_2_0_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_leakcanary_leakcanary_analyzer_1_6_3_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_leakcanary_leakcanary_android_1_6_3_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_leakcanary_leakcanary_android_no_op_1_6_3_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_leakcanary_leakcanary_watcher_1_6_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_moshi_moshi_1_8_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_12_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_2_2_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_9_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_agent_1_9_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_bouncycastle_bcprov_jdk15on_1_61_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_checkerframework_checker_compat_qual_2_5_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_checkerframework_checker_qual_2_5_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_android_extensions_runtime_1_3_30_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_30_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_30_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_1_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_trove4j_trove4j_20160824_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_koin_koin_android_1_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_koin_koin_android_scope_1_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_koin_koin_android_viewmodel_1_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_koin_koin_core_1_0_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_koin_koin_core_ext_1_0_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_core_2_27_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_objenesis_objenesis_2_6_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_threeten_threetenbp_1_3_8_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_threeten_threetenbp_1_3_8_no_tzdb_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qwallet.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Qwallet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Qwallet.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Qwallet.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____home_ndex_Work_QuantaEX_Q_wallet_github_Qwallet_app_build_intermediates_unmocked_androidapp_jar_unspecified_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___D__Working_PHYS_Project_BlockChain_Bangladesh_qwallet_app_build_intermediates_unmocked_androidapp_jar_unspecified_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_0_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_0_2_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_extensions_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_extensions_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_process_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_process_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_service_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_service_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_multidex_multidex_2_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_multidex_multidex_2_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_multidex_multidex_instrumentation_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_multidex_multidex_instrumentation_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_paging_paging_runtime_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_paging_paging_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_preference_preference_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_preference_preference_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_room_room_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_room_room_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_sqlite_sqlite_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_sqlite_sqlite_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_sqlite_sqlite_framework_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_sqlite_sqlite_framework_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_contrib_3_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_contrib_3_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_intents_3_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_intents_3_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_rules_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_rules_1_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_work_work_runtime_2_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_work_work_runtime_2_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_work_work_runtime_ktx_2_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_work_work_runtime_ktx_2_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_androidadvance_topsnackbar_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_androidadvance_topsnackbar_1_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_chibatching_kotpref_kotpref_2_8_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_chibatching_kotpref_kotpref_2_8_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_dmitrymalkovich_android_progress_fab_1_6_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_dmitrymalkovich_android_progress_fab_1_6_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_amlcurran_showcaseview_library_5_4_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_amlcurran_showcaseview_library_5_4_3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_ExtraCompats_0_5_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_ExtraCompats_0_5_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_KAXTUI_0_8_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_KAXTUI_0_8_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_KAXT_lib_0_22_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_KAXT_lib_0_22_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_KAXT_livedata_0_22_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_KAXT_livedata_0_22_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_KRoom_0_4_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_KRoom_0_4_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_rootbeer_remove_native_workaround_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_rootbeer_remove_native_workaround_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_thirdpartylicensedisplay_0_4_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_thirdpartylicensedisplay_0_4_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_tracedroid_lib_2_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_tracedroid_lib_2_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_tracedroid_supportemail_2_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_tracedroid_supportemail_2_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_trezor_android_only_library_for_ethereum_tag_core210_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_trezor_android_only_library_for_ethereum_tag_core210_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_trulesk_0_28_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ligi_trulesk_0_28_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_madrapps_pikolo_1_1_8_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_madrapps_pikolo_1_1_8_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_KHardWareWallet_0_8_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_walleth_KHardWareWallet_0_8_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_process_phoenix_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_process_phoenix_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_threetenabp_threetenabp_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_threetenabp_threetenabp_1_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_leakcanary_leakcanary_analyzer_1_6_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_leakcanary_leakcanary_analyzer_1_6_3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_leakcanary_leakcanary_android_1_6_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_leakcanary_leakcanary_android_1_6_3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_leakcanary_leakcanary_android_no_op_1_6_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_leakcanary_leakcanary_android_no_op_1_6_3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_trove4j_trove4j_20160824_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_trove4j_trove4j_20160824_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_koin_koin_android_1_0_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_koin_koin_android_1_0_2_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_koin_koin_android_scope_1_0_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_koin_koin_android_scope_1_0_2_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_koin_koin_android_viewmodel_1_0_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_koin_koin_android_viewmodel_1_0_2_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_account_create.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_account_create.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/infrastructure/AppReplacingRunner.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/infrastructure/AppReplacingRunner.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/infrastructure/TestApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/infrastructure/TestApp.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/infrastructure/Utils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/infrastructure/Utils.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/testdata/AddressBookWithTestEntries.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/testdata/AddressBookWithTestEntries.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/testdata/DefaultCurrentAddressProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/testdata/DefaultCurrentAddressProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/testdata/FixedValueExchangeProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/testdata/FixedValueExchangeProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/testdata/TestKeyStore.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/testdata/TestKeyStore.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/testdata/TransactionProviderWithTestData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/testdata/TransactionProviderWithTestData.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/tests/TheAccountPickActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheAccountPickActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/tests/TheCreateTransactionActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheCreateTransactionActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/tests/TheExportKeyActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheExportKeyActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/tests/TheImportWithPayload.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheImportWithPayload.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/tests/TheInfoActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheInfoActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/tests/TheIntentHandlerActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheIntentHandlerActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/tests/TheMainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheMainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/tests/TheNavigationDrawer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheNavigationDrawer.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/tests/TheOfflineTransactionActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheOfflineTransactionActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/tests/TheOpenSourceLicenses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheOpenSourceLicenses.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/tests/ThePreferencesActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/ThePreferencesActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/tests/TheRequestActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheRequestActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/tests/TheSecurityInfoActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheSecurityInfoActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/tests/TheSelectReferenceActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheSelectReferenceActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/tests/TheSelectTokensActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheSelectTokensActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/tests/TheTransactionActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheTransactionActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/tests/TheTransactionParcel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheTransactionParcel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/tests/database/AbstractDatabaseTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/database/AbstractDatabaseTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/tests/database/TheAddressBook.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/database/TheAddressBook.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/tests/database/TheBalanceProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/database/TheBalanceProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/tests/database/TheTokens.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/database/TheTokens.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/walleth/tests/database/TheTransactions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/database/TheTransactions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/debug/java/org/walleth/CommonURIsActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/debug/java/org/qwallet/CommonURIsActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/debug/java/org/walleth/DebugTrampolin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/debug/java/org/qwallet/DebugTrampolin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/App.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/AccountPickActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/AccountPickActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/AddressReceivingActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/AddressReceivingActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/BaseAddressBookActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/BaseAddressBookActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/BaseSubActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/BaseSubActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/CreateAccountActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/CreateAccountActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/CreateTokenDefinitionActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/CreateTokenDefinitionActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/CreateTransactionActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/CreateTransactionActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/DebugWallethActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/DebugWallethActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/EditAccountActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/EditAccountActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/ExportKeyActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/ExportKeyActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/ImportAsActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/ImportAsActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/ImportKeyActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/ImportKeyActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/InfoActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/InfoActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/IntentHandlerActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/IntentHandlerActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/NewAccountTypeSelectActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/NewAccountTypeSelectActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/OfflineTransactionActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/OfflineTransactionActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/OnboardingController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/OnboardingController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/OpenSourceLicenseDisplayActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/OpenSourceLicenseDisplayActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/ParitySignerQRActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/ParitySignerQRActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/PreferenceActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/PreferenceActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/QRCodeActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/QRCodeActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/RequestActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/RequestActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/RequestPINActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/RequestPINActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/RequestPasswordActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/RequestPasswordActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/SecurityInfoActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/SecurityInfoActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/SelectReferenceActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/SelectReferenceActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/SelectTokenActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/SelectTokenActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/SignTextActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/SignTextActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/StartupActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/StartupActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/SwitchAccountActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/SwitchAccountActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/SwitchNetworkActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/SwitchNetworkActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/ToolbarSetupActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/ToolbarSetupActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/ViewTransactionActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/ViewTransactionActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/WallethActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/WallethActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/nfc/BaseNFCActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/nfc/BaseNFCActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/nfc/NDEFTagHandlingActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/nfc/NDEFTagHandlingActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/nfc/NFCCredentialStore.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/nfc/NFCCredentialStore.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/nfc/NFCEnterCredentialsActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/nfc/NFCEnterCredentialsActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/nfc/NFCGetAddressActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/nfc/NFCGetAddressActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/nfc/NFCSignTransactionActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/nfc/NFCSignTransactionActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/qrscan/CameraPermission.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/qrscan/CameraPermission.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/qrscan/QRScanActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/qrscan/QRScanActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/qrscan/Scanner.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/qrscan/Scanner.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/qrscan/Videographer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/qrscan/Videographer.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/trezor/BaseTrezorActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/trezor/BaseTrezorActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/trezor/TrezorGetAddressActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/trezor/TrezorGetAddressActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/trezor/TrezorSignTransactionActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/trezor/TrezorSignTransactionActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/walletconnect/WalletConnectConnectionActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/walletconnect/WalletConnectConnectionActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/activities/walletconnect/WalletConnectErrorActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/walletconnect/WalletConnectErrorActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/contracts/FourByteDirectory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/contracts/FourByteDirectory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/core/TransactionNotificationService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/core/TransactionNotificationService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/AppDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/AppDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/RoomTypeConverters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/RoomTypeConverters.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/TokenPrimer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/TokenPrimer.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/Values.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/Values.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/addressbook/AddressBookDAO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/addressbook/AddressBookDAO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/addressbook/AddressBookEntry.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/addressbook/AddressBookEntry.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/addressbook/PrePopulationAddresses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/addressbook/PrePopulationAddresses.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/balances/Balance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/balances/Balance.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/balances/BalanceDAO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/balances/BalanceDAO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/blockexplorer/BlockExplorerProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/blockexplorer/BlockExplorerProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/config/KotprefSettings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/config/KotprefSettings.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/config/Settings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/config/Settings.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/exchangerate/BaseExchangeProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/exchangerate/BaseExchangeProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/exchangerate/CryptoCompareExchangeProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/exchangerate/CryptoCompareExchangeProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/exchangerate/ExchangeRateProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/exchangerate/ExchangeRateProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/exchangerate/FiatInfo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/exchangerate/FiatInfo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/networks/CurrentAddressProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/networks/CurrentAddressProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/networks/InitializingCurrentAddressProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/networks/InitializingCurrentAddressProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/networks/LightClientNetworkConstants.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/networks/LightClientNetworkConstants.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/networks/NetworkDefinitionProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/networks/NetworkDefinitionProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/syncprogress/SyncProgressProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/syncprogress/SyncProgressProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/syncprogress/WallethSyncProgress.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/syncprogress/WallethSyncProgress.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/tokens/CurrentTokenProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/tokens/CurrentTokenProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/tokens/Token.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/tokens/Token.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/tokens/TokenDAO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/tokens/TokenDAO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/tokens/TokenTransfer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/tokens/TokenTransfer.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/transactions/TransactionDAO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/transactions/TransactionDAO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/transactions/TransactionEntity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/transactions/TransactionEntity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/data/transactions/TransactionState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/data/transactions/TransactionState.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/functions/Converting.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/functions/Converting.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/functions/Formatting.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/functions/Formatting.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/functions/JSON.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/functions/JSON.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/functions/QRCodeFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/functions/QRCodeFunctions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/kethereum/android/TransactionParcel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/kethereum/android/TransactionParcel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/kethereum/model/AddressOnChain.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/kethereum/model/AddressOnChain.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/kethereum/model/ContractFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/kethereum/model/ContractFunction.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/migrations/RecreatingMigration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/migrations/RecreatingMigration.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/model/ACCOUNT_TYPE_LIST.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/model/ACCOUNT_TYPE_LIST.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/model/AccountType.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/model/AccountType.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/ui/AddressAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/AddressAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/ui/AddressViewHolder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/AddressViewHolder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/ui/ChainIdAlert.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/ChainIdAlert.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/ui/FiatListAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/FiatListAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/ui/FiatListItemViewHolder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/FiatListItemViewHolder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/ui/NetworkAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/NetworkAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/ui/NetworkDefinitionViewHolder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/NetworkDefinitionViewHolder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/ui/PINDialog.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/PINDialog.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/ui/ReticleView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/ReticleView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/ui/TokenListAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/TokenListAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/ui/TokenViewHolder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/TokenViewHolder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/ui/TransactionRecyclerAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/TransactionRecyclerAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/ui/TransactionViewHolder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/TransactionViewHolder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/ui/WalletNavigationFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/WalletNavigationFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/ui/WalletPrefsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/WalletPrefsFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/ui/WallethToolBar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/WallethToolBar.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/ui/valueview/ValueView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/valueview/ValueView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/ui/valueview/ValueViewController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/valueview/ValueViewController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/ui/valueview/ValueViewSmall.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/valueview/ValueViewSmall.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/ui/valueview/ValueViewTextObserver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/valueview/ValueViewTextObserver.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/util/ChainDefinitionResolver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/util/ChainDefinitionResolver.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/util/Clipboard.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/util/Clipboard.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/util/Context.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/util/Context.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/util/DelegatingSocketFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/util/DelegatingSocketFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/util/EditTextExtension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/util/EditTextExtension.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/util/JSONContentDetector.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/util/JSONContentDetector.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/util/security/KeyGuardUtil.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/util/security/KeyGuardUtil.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/util/security/PasswordProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/util/security/PasswordProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/util/security/PatchLevelUtil.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/util/security/PatchLevelUtil.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/viewmodels/TransactionListViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/viewmodels/TransactionListViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/walleth/viewmodels/WalletConnectViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/qwallet/viewmodels/WalletConnectViewModel.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_create_transaction.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_create_transaction.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qwallet.jks" beforeDir="false" afterPath="$PROJECT_DIR$/qwallet.jks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_request.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_request.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_view_transaction.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_view_transaction.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/toolbar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/toolbar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/transaction_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/transaction_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/online/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/online/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/online/java/org/walleth/OnlineInitContentProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/online/java/org/qwallet/OnlineInitContentProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/online/java/org/walleth/dataprovider/BlockScoutAPI.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/online/java/org/qwallet/dataprovider/BlockScoutAPI.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/online/java/org/walleth/dataprovider/BlockScoutParser.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/online/java/org/qwallet/dataprovider/BlockScoutParser.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/online/java/org/walleth/dataprovider/DataProvidingService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/online/java/org/qwallet/dataprovider/DataProvidingService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/online/java/org/walleth/workers/RelayTransactionWorker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/online/java/org/qwallet/workers/RelayTransactionWorker.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/TheBaseExchangeProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/TheBaseExchangeProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/TheFormatting.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/TheFormatting.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/testOnline/java/TheEtherScanParser.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/testOnline/java/TheEtherScanParser.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/witness.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/witness.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/appcompat/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/cardview/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/lifecycle/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/multidex/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/paging/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/preference/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/recyclerview/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/room/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/test/espresso/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/work/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/com/google/android/material/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/master-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/sdk-registry.xml/sdk-registry.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -194,58 +313,187 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="qwallet" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="qwallet" type="f1a62948:ProjectNode" />
+                <item name="qwallet" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="qwallet" type="f1a62948:ProjectNode" />
+                <item name="qwallet" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="qwallet" type="f1a62948:ProjectNode" />
+                <item name="qwallet" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/CreateTransactionActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+            <state relative-caret-position="190">
+              <caret line="634" column="39" selection-start-line="634" selection-start-column="39" selection-end-line="634" selection-end-column="39" />
+              <folding>
+                <element signature="e#32#3402#0" expanded="true" />
+                <element signature="e#6854#6969#0" expanded="true" />
+                <element signature="e#9018#9045#1" expanded="true" />
+                <element signature="e#13071#13104#1" expanded="true" />
+                <element signature="e#13797#13838#1" expanded="true" />
+                <element signature="e#13911#13933#0" expanded="true" />
+                <element signature="e#13945#13971#0" expanded="true" />
+                <element signature="e#14161#14191#1" expanded="true" />
+                <element signature="e#14193#14221#1" expanded="true" />
+                <element signature="e#14451#14492#1" expanded="true" />
+                <element signature="e#14494#14522#1" expanded="true" />
+                <element signature="e#21863#21922#1" expanded="true" />
+                <element signature="e#21924#21957#1" expanded="true" />
+                <element signature="e#22122#22158#1" expanded="true" />
+                <element signature="e#22160#22193#1" expanded="true" />
+                <element signature="e#23421#23460#0" expanded="true" />
+                <element signature="e#23642#23698#1" expanded="true" />
+                <element signature="e#23700#23753#1" expanded="true" />
+                <element signature="e#23814#23870#1" expanded="true" />
+                <element signature="e#25281#25365#1" expanded="true" />
+                <element signature="e#25644#25747#1" expanded="true" />
+                <element signature="e#26105#26208#1" expanded="true" />
+                <element signature="e#26556#26629#1" expanded="true" />
+                <element signature="e#26663#26687#1" expanded="true" />
+                <element signature="e#26728#26741#1" expanded="true" />
+                <element signature="e#26959#26970#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_account_create.xml">
-          <provider editor-type-id="text-editor" />
-          <provider selected="true" editor-type-id="android-designer2" />
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/RequestActivity.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_account_edit.xml">
-          <provider editor-type-id="text-editor" />
-          <provider selected="true" editor-type-id="android-designer2" />
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/nfc/NFCSignTransactionActivity.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="90" column="89" selection-start-line="90" selection-start-column="89" selection-end-line="90" selection-end-column="89" />
+              <folding>
+                <element signature="e#36#929#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_base_w_actionbar.xml">
-          <provider editor-type-id="text-editor" />
-          <provider selected="true" editor-type-id="android-designer2" />
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/qrscan/CameraPermission.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+              <folding>
+                <element signature="e#545#574#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_create_token.xml">
-          <provider editor-type-id="text-editor" />
-          <provider selected="true" editor-type-id="android-designer2" />
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/qrscan/Scanner.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-40">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/NetworkAdapter.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/online/java/org/qwallet/dataprovider/BlockScoutAPI.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/online/java/org/qwallet/dataprovider/DataProvidingService.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="115" column="45" selection-start-line="115" selection-start-column="45" selection-end-line="115" selection-end-column="45" />
+              <folding>
+                <element signature="e#34#1293#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/online/java/org/qwallet/workers/RelayTransactionWorker.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-439">
+              <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+              <folding>
+                <element signature="e#29#694#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_create_transaction.xml">
-          <provider editor-type-id="text-editor" />
-          <provider selected="true" editor-type-id="android-designer2" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_relay.xml">
-          <provider editor-type-id="text-editor" />
-          <provider selected="true" editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="123" column="24" selection-start-line="123" selection-start-column="24" selection-end-line="123" selection-end-column="24" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>applicationId = &quot;org.walleth&quot;</find>
+      <find>applicationId</find>
+      <find>flavorName</find>
+      <find>walleth</find>
+      <find>firebase</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="GenerateSignedApkSettings">
     <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/qwallet.jks" />
@@ -258,9 +506,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_account_create.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/WallethToolBar.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/WalletNavigationFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/WalletPrefsFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/org/qwallet/util/security/PasswordProvider.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/org/qwallet/util/Clipboard.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/org/qwallet/util/Context.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/org/qwallet/viewmodels/TransactionListViewModel.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/org/qwallet/App.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/testdata/DefaultCurrentAddressProvider.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/infrastructure/TestApp.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/infrastructure/Utils.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/testdata/AddressBookWithTestEntries.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/testdata/FixedValueExchangeProvider.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/testdata/TransactionProviderWithTestData.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/database/TheAddressBook.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/database/TheBalanceProvider.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/database/TheTokens.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/database/TheTransactions.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheAccountPickActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheCreateTransactionActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheExportKeyActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheImportWithPayload.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheInfoActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheIntentHandlerActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheMainActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheNavigationDrawer.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheOfflineTransactionActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheOpenSourceLicenses.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/ThePreferencesActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheRequestActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheSecurityInfoActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheSelectReferenceActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheSelectTokensActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheTransactionActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheTransactionParcel.kt" />
+        <option value="$PROJECT_DIR$/app/src/test/java/TheBaseExchangeProvider.kt" />
+        <option value="$PROJECT_DIR$/app/src/testOnline/java/TheEtherScanParser.kt" />
+        <option value="$PROJECT_DIR$/app/src/test/java/TheFormatting.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/CreateTokenDefinitionActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/MainActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/CreateTransactionActivity.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_create_transaction.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/RequestActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/nfc/NFCSignTransactionActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/qrscan/CameraPermission.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/qrscan/Scanner.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/NetworkAdapter.kt" />
+        <option value="$PROJECT_DIR$/app/src/online/java/org/qwallet/dataprovider/BlockScoutAPI.kt" />
+        <option value="$PROJECT_DIR$/app/src/online/java/org/qwallet/dataprovider/DataProvidingService.kt" />
+        <option value="$PROJECT_DIR$/app/src/online/java/org/qwallet/workers/RelayTransactionWorker.kt" />
       </list>
     </option>
   </component>
@@ -272,12 +568,32 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages AndroidView="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="qwallet" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="qwallet" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="qwallet" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane" />
     </panes>
   </component>
@@ -287,8 +603,10 @@
     <property name="ExportApk.SignV1" value="true" />
     <property name="android.project.structure.last.selected" value="app" />
     <property name="android.project.structure.proportion" value="0.15" />
+    <property name="device.picker.selection" value="127.0.0.1:62001" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/qwallet.jks" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -311,7 +629,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -379,12 +697,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="28" width="1378" height="717" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32930514" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4983871" visible="true" weight="0.32889125" />
       <window_info id="Structure" order="2" side_tool="true" />
-      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="3" sideWeight="0.5016129" side_tool="true" weight="0.32889125" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Designer" order="5" />
       <window_info id="Resources Explorer" order="6" weight="0.32930514" />
@@ -393,53 +711,463 @@
       <window_info anchor="bottom" id="Run" order="0" />
       <window_info anchor="bottom" id="Logcat" order="1" />
       <window_info anchor="bottom" id="TODO" order="2" />
-      <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Android Profiler" order="3" />
       <window_info anchor="bottom" id="Debug" order="4" />
       <window_info anchor="bottom" id="Terminal" order="5" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Build" order="9" visible="true" weight="0.32846716" />
+      <window_info active="true" anchor="bottom" id="Build" order="9" visible="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Find" order="10" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.32995737" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="right" id="Flutter Inspector" order="4" />
       <window_info anchor="right" id="Flutter Outline" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Assistant" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Preview" order="8" weight="0.32995737" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/testdata/DefaultCurrentAddressProvider.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        <state relative-caret-position="170">
+          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          <folding>
+            <element signature="e#30#254#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_account_create.xml">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="android-designer2" />
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/testdata/FixedValueExchangeProvider.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_account_edit.xml">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="android-designer2" />
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/testdata/TestKeyStore.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_base_w_actionbar.xml">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="android-designer2" />
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/testdata/TransactionProviderWithTestData.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_create_token.xml">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="android-designer2" />
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/database/AbstractDatabaseTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/database/TheAddressBook.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/database/TheBalanceProvider.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/database/TheTokens.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/database/TheTransactions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheAccountPickActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheCreateTransactionActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+          <folding>
+            <element signature="e#2712#2818#1" expanded="true" />
+            <element signature="e#3251#3273#1" expanded="true" />
+            <element signature="e#3668#3708#1" expanded="true" />
+            <element signature="e#3815#3905#1" expanded="true" />
+            <element signature="e#4383#4423#1" expanded="true" />
+            <element signature="e#4509#4599#1" expanded="true" />
+            <element signature="e#4958#5022#1" expanded="true" />
+            <element signature="e#6108#6191#1" expanded="true" />
+            <element signature="e#6468#6556#1" expanded="true" />
+            <element signature="e#12586#12608#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheExportKeyActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheImportWithPayload.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheInfoActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheIntentHandlerActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="e#831#873#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheMainActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheNavigationDrawer.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheOfflineTransactionActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="e#1356#1386#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheOpenSourceLicenses.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/ThePreferencesActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="e#827#856#1" expanded="true" />
+            <element signature="e#1022#1052#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheRequestActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheSecurityInfoActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <element signature="e#27#418#0" expanded="true" />
+            <element signature="e#593#615#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheSelectReferenceActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheSelectTokensActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheTransactionActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="18" />
+          <folding>
+            <element signature="e#2478#2507#1" expanded="true" />
+            <element signature="e#3082#3113#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/org/qwallet/tests/TheTransactionParcel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/debug/java/org/qwallet/CommonURIsActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/debug/java/org/qwallet/DebugTrampolin.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/TheBaseExchangeProvider.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/kapt/noGethNoFirebaseForFDroidOnlineDebug/org/qwallet/data/addressbook/AddressBookDAO_Impl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/kapt/noGethNoFirebaseForFDroidOnlineDebug/org/qwallet/data/balances/BalanceDAO_Impl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/kapt/noGethNoFirebaseForFDroidOnlineDebug/org/qwallet/data/transactions/TransactionDAO_Impl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/kapt/noGethNoFirebaseForFDroidOnlineDebug/org/qwallet/OnlineInitContentProvider_LifecycleAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/testOnline/java/TheEtherScanParser.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/TheFormatting.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/buildConfig/noGethNoFirebaseForFDroidOnline/debug/org/qwallet/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/CreateTokenDefinitionActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="87" column="9" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/MainActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="108" column="9" lean-forward="true" selection-start-line="108" selection-start-column="9" selection-end-line="108" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/witness.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="171" column="21" selection-start-line="171" selection-start-column="21" selection-end-line="171" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4324">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_create_transaction.xml">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="123" column="24" selection-start-line="123" selection-start-column="24" selection-end-line="123" selection-end-column="24" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_relay.xml">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="android-designer2" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/CreateTransactionActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="634" column="39" selection-start-line="634" selection-start-column="39" selection-end-line="634" selection-end-column="39" />
+          <folding>
+            <element signature="e#32#3402#0" expanded="true" />
+            <element signature="e#6854#6969#0" expanded="true" />
+            <element signature="e#9018#9045#1" expanded="true" />
+            <element signature="e#13071#13104#1" expanded="true" />
+            <element signature="e#13797#13838#1" expanded="true" />
+            <element signature="e#13911#13933#0" expanded="true" />
+            <element signature="e#13945#13971#0" expanded="true" />
+            <element signature="e#14161#14191#1" expanded="true" />
+            <element signature="e#14193#14221#1" expanded="true" />
+            <element signature="e#14451#14492#1" expanded="true" />
+            <element signature="e#14494#14522#1" expanded="true" />
+            <element signature="e#21863#21922#1" expanded="true" />
+            <element signature="e#21924#21957#1" expanded="true" />
+            <element signature="e#22122#22158#1" expanded="true" />
+            <element signature="e#22160#22193#1" expanded="true" />
+            <element signature="e#23421#23460#0" expanded="true" />
+            <element signature="e#23642#23698#1" expanded="true" />
+            <element signature="e#23700#23753#1" expanded="true" />
+            <element signature="e#23814#23870#1" expanded="true" />
+            <element signature="e#25281#25365#1" expanded="true" />
+            <element signature="e#25644#25747#1" expanded="true" />
+            <element signature="e#26105#26208#1" expanded="true" />
+            <element signature="e#26556#26629#1" expanded="true" />
+            <element signature="e#26663#26687#1" expanded="true" />
+            <element signature="e#26728#26741#1" expanded="true" />
+            <element signature="e#26959#26970#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/RequestActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/nfc/NFCSignTransactionActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="90" column="89" selection-start-line="90" selection-start-column="89" selection-end-line="90" selection-end-column="89" />
+          <folding>
+            <element signature="e#36#929#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/qrscan/CameraPermission.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#545#574#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/qwallet/activities/qrscan/Scanner.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/qwallet/ui/NetworkAdapter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/online/java/org/qwallet/dataprovider/BlockScoutAPI.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/online/java/org/qwallet/dataprovider/DataProvidingService.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="115" column="45" selection-start-line="115" selection-start-column="45" selection-end-line="115" selection-end-column="45" />
+          <folding>
+            <element signature="e#34#1293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/online/java/org/qwallet/workers/RelayTransactionWorker.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-439">
+          <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+          <folding>
+            <element signature="e#29#694#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
   </component>
 </project>

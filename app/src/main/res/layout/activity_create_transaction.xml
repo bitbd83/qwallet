@@ -102,7 +102,7 @@
                     android:layout_below="@id/amount_label"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content">
-                <org.walleth.ui.valueview.ValueView
+                <org.qwallet.ui.valueview.ValueView
                         android:layout_gravity="center"
                         android:id="@+id/amount_value"
                         app:allowEdit="true"
@@ -121,7 +121,7 @@
             </LinearLayout>
 
 
-            <org.walleth.ui.valueview.ValueViewSmall
+            <org.qwallet.ui.valueview.ValueViewSmall
                     android:layout_centerHorizontal="true"
                     android:id="@+id/fee_value_view"
                     android:layout_below="@id/amount_container"
