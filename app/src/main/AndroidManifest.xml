@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
-          package="org.walleth">
+          package="org.qwallet">
 
-    <uses-sdk tools:overrideLibrary="org.walleth.khartwarewallet.lib,im.status.hardwallet_lite_android"/>
+    <uses-sdk tools:overrideLibrary="org.qwallet.khartwarewallet.lib,im.status.hardwallet_lite_android"/>
 
     <uses-permission android:name="android.permission.CAMERA"/>
 
@@ -25,45 +25,45 @@
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
 
-        <service android:name="org.walleth.core.TransactionNotificationService"/>
+        <service android:name="org.qwallet.core.TransactionNotificationService"/>
 
-        <activity android:name="org.walleth.activities.qrscan.QRScanActivity"/>
+        <activity android:name="org.qwallet.activities.qrscan.QRScanActivity"/>
 
-        <activity android:name="org.walleth.activities.SwitchNetworkActivity"/>
-        <activity android:name="org.walleth.activities.RequestActivity"/>
+        <activity android:name="org.qwallet.activities.SwitchNetworkActivity"/>
+        <activity android:name="org.qwallet.activities.RequestActivity"/>
         <activity android:name=".activities.QRCodeActivity"/>
-        <activity android:name="org.walleth.activities.InfoActivity"/>
-        <activity android:name="org.walleth.activities.DebugWallethActivity"/>
+        <activity android:name="org.qwallet.activities.InfoActivity"/>
+        <activity android:name="org.qwallet.activities.DebugWallethActivity"/>
 
-        <activity android:name="org.walleth.activities.trezor.TrezorSignTransactionActivity"/>
-        <activity android:name="org.walleth.activities.trezor.TrezorGetAddressActivity"/>
+        <activity android:name="org.qwallet.activities.trezor.TrezorSignTransactionActivity"/>
+        <activity android:name="org.qwallet.activities.trezor.TrezorGetAddressActivity"/>
 
-        <activity android:name="org.walleth.activities.nfc.NFCGetAddressActivity"/>
-        <activity android:name="org.walleth.activities.nfc.NFCSignTransactionActivity"/>
-        <activity android:name="org.walleth.activities.ImportKeyActivity"/>
+        <activity android:name="org.qwallet.activities.nfc.NFCGetAddressActivity"/>
+        <activity android:name="org.qwallet.activities.nfc.NFCSignTransactionActivity"/>
+        <activity android:name="org.qwallet.activities.ImportKeyActivity"/>
 
-        <activity android:name="org.walleth.activities.walletconnect.WalletConnectConnectionActivity"/>
-        <activity android:name="org.walleth.activities.walletconnect.WalletConnectErrorActivity"/>
+        <activity android:name="org.qwallet.activities.walletconnect.WalletConnectConnectionActivity"/>
+        <activity android:name="org.qwallet.activities.walletconnect.WalletConnectErrorActivity"/>
 
-        <activity android:name="org.walleth.activities.ExportKeyActivity"/>
-        <activity android:name="org.walleth.activities.EditAccountActivity"/>
-        <activity android:name="org.walleth.activities.CreateAccountActivity"/>
-        <activity android:name="org.walleth.activities.SelectReferenceActivity"/>
-        <activity android:name="org.walleth.activities.ParitySignerQRActivity"/>
-        <activity android:name="org.walleth.activities.SignTextActivity"/>
-        <activity android:name="org.walleth.activities.SelectTokenActivity"/>
-        <activity android:name="org.walleth.activities.CreateTokenDefinitionActivity"/>
-        <activity android:name="org.walleth.activities.SecurityInfoActivity"/>
+        <activity android:name="org.qwallet.activities.ExportKeyActivity"/>
+        <activity android:name="org.qwallet.activities.EditAccountActivity"/>
+        <activity android:name="org.qwallet.activities.CreateAccountActivity"/>
+        <activity android:name="org.qwallet.activities.SelectReferenceActivity"/>
+        <activity android:name="org.qwallet.activities.ParitySignerQRActivity"/>
+        <activity android:name="org.qwallet.activities.SignTextActivity"/>
+        <activity android:name="org.qwallet.activities.SelectTokenActivity"/>
+        <activity android:name="org.qwallet.activities.CreateTokenDefinitionActivity"/>
+        <activity android:name="org.qwallet.activities.SecurityInfoActivity"/>
 
-        <activity android:name="org.walleth.activities.AccountPickActivity"/>
-        <activity android:name="org.walleth.activities.SwitchAccountActivity"/>
-        <activity android:name="org.walleth.activities.PreferenceActivity"/>
-        <activity android:name="org.walleth.activities.ViewTransactionActivity"/>
-        <activity android:name="org.walleth.activities.CreateTransactionActivity"/>
+        <activity android:name="org.qwallet.activities.AccountPickActivity"/>
+        <activity android:name="org.qwallet.activities.SwitchAccountActivity"/>
+        <activity android:name="org.qwallet.activities.PreferenceActivity"/>
+        <activity android:name="org.qwallet.activities.ViewTransactionActivity"/>
+        <activity android:name="org.qwallet.activities.CreateTransactionActivity"/>
 
-        <activity android:name="org.walleth.activities.ToolbarSetupActivity"/>
+        <activity android:name="org.qwallet.activities.ToolbarSetupActivity"/>
 
-        <activity android:name="org.walleth.activities.IntentHandlerActivity">
+        <activity android:name="org.qwallet.activities.IntentHandlerActivity">
             <intent-filter>
                 <action android:name="android.intent.action.VIEW"/>
 
@@ -82,7 +82,7 @@
                         android:scheme="wc"/>
             </intent-filter>
         </activity>
-        <activity android:name="org.walleth.activities.MainActivity">
+        <activity android:name="org.qwallet.activities.MainActivity">
 
         </activity>
 
@@ -91,11 +91,11 @@
             <intent-filter>
                 <category android:name="android.intent.category.DEFAULT"/>
                 <action android:name="android.intent.action.VIEW"/>
-                <data android:scheme="org.walleth.licenses"/>
+                <data android:scheme="org.qwallet.licenses"/>
             </intent-filter>
         </activity>
 
-        <activity android:name="org.walleth.activities.OfflineTransactionActivity"
+        <activity android:name="org.qwallet.activities.OfflineTransactionActivity"
                   android:windowSoftInputMode="adjustResize"/>
 
         <activity android:name=".activities.NewAccountTypeSelectActivity"/>

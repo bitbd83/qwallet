@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.ligi:rootbeer:remove_native_workaround@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8792a5619d19ebc6d459c1ef646f7c5b/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8792a5619d19ebc6d459c1ef646f7c5b/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f96b9d1f3f3cb100836591e1db15e75/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f96b9d1f3f3cb100836591e1db15e75/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -5,12 +5,12 @@
 
     <application>
         <provider
-                android:authorities="org.walleth.OnlineInitContentProvider"
+                android:authorities="org.qwallet.OnlineInitContentProvider"
                 android:exported="false"
                 android:enabled="true"
-                android:name="org.walleth.OnlineInitContentProvider" />
+                android:name="org.qwallet.OnlineInitContentProvider" />
 
-        <service android:name="org.walleth.dataprovider.DataProvidingService"/>
+        <service android:name="org.qwallet.core.TransactionNotificationService"/>
     </application>
 
 </manifest>
