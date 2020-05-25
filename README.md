@@ -1,4 +1,4 @@
-![Q-Wallet](https://bitbucket.org/ndexnetwork/qwallet/src/master/qwallet.png)
+Kotlin Project! Q-Wallet
 
 
 # Q-Wallet | A Wallet for Everyday
